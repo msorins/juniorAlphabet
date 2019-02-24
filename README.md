@@ -1,6 +1,6 @@
 # juniorAlphabet Web Platform
 
-## Youtube demo video
+## Youtube video demo
 [![](http://img.youtube.com/vi/Ta1W-_c2_rw/0.jpg)](http://www.youtube.com/watch?v=Ta1W-_c2_rw "JuniorAlphabet Demo")
 
 ## Screens
@@ -34,3 +34,5 @@ The platform is divided into the following modules:
 ### BackEnd:
 * PHP
 * MySQL
+
+> The Project was realised in a 24hr Hackaton during the National Stage of the contest "InfoEducatia 2016" (after I had just finished High School), where I got the 1st place in the Educational category
